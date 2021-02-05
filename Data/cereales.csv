@@ -1,4 +1,4 @@
-id_cereal,cereal
-130,AMARANTO
-131,AVENA
-132,QUÍNOA
+id_cereal,cereal,price,value_f
+118,AMARANTO,50,4
+119,AVENA,25,2
+120,QUÍNOA,40,3
