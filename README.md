@@ -10,4 +10,7 @@ the money that they afford to buy. In order to get into the best combination of 
 
 The data was given to us by Dr. Erik Estrada, that had made a data base for all fruits that are available in Mexico. If you like to contact him, you can do it by visiting his website. https://www.erickestrada.com.mx/
 
+# The Impact of this work
+Giving a solution to this kind of problem, opens the door to many practical ways to get the perfect diet without at expenses of the money. Thus, many people around the world are going to benefit from these results that are suffering a loss of a family member that provided economically, or that suffer the loss of their jobs. I find a way that those limited savings maximizes the nutritional content with a limited budget.
+
 ![graphs](https://user-images.githubusercontent.com/63176184/110277530-0aa25000-7f9b-11eb-8a07-11f59f86d265.jpg)
