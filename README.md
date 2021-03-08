@@ -10,3 +10,4 @@ the money that they afford to buy. In order to get into the best combination of 
 
 The data was given to us by Dr. Erik Estrada, that had made a data base for all fruits that are available in Mexico. If you like to contact him, you can do it by visiting his website. https://www.erickestrada.com.mx/
 
+![graphs](https://user-images.githubusercontent.com/63176184/110277530-0aa25000-7f9b-11eb-8a07-11f59f86d265.jpg)
